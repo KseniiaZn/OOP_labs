@@ -1,0 +1,5 @@
+﻿  OOP_lab_4_C++.cpp
+  Row.cpp
+  Создание кода...
+C:\Users\kseni\source\repos\OOP_lab_4_C++\OOP_lab_4_C++.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  OOP_lab_4_C++.vcxproj -> C:\Users\kseni\source\repos\OOP_lab_4_C++\Debug\OOP_lab_4_C++.exe

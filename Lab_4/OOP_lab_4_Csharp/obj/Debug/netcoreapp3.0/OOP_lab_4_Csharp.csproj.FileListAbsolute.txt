@@ -1,0 +1,11 @@
+C:\Users\kseni\source\repos\OOP_lab_4_Csharp\bin\Debug\netcoreapp3.0\OOP_lab_4_Csharp.exe
+C:\Users\kseni\source\repos\OOP_lab_4_Csharp\bin\Debug\netcoreapp3.0\OOP_lab_4_Csharp.deps.json
+C:\Users\kseni\source\repos\OOP_lab_4_Csharp\bin\Debug\netcoreapp3.0\OOP_lab_4_Csharp.runtimeconfig.json
+C:\Users\kseni\source\repos\OOP_lab_4_Csharp\bin\Debug\netcoreapp3.0\OOP_lab_4_Csharp.runtimeconfig.dev.json
+C:\Users\kseni\source\repos\OOP_lab_4_Csharp\bin\Debug\netcoreapp3.0\OOP_lab_4_Csharp.dll
+C:\Users\kseni\source\repos\OOP_lab_4_Csharp\bin\Debug\netcoreapp3.0\OOP_lab_4_Csharp.pdb
+C:\Users\kseni\source\repos\OOP_lab_4_Csharp\obj\Debug\netcoreapp3.0\OOP_lab_4_Csharp.csprojAssemblyReference.cache
+C:\Users\kseni\source\repos\OOP_lab_4_Csharp\obj\Debug\netcoreapp3.0\OOP_lab_4_Csharp.AssemblyInfoInputs.cache
+C:\Users\kseni\source\repos\OOP_lab_4_Csharp\obj\Debug\netcoreapp3.0\OOP_lab_4_Csharp.AssemblyInfo.cs
+C:\Users\kseni\source\repos\OOP_lab_4_Csharp\obj\Debug\netcoreapp3.0\OOP_lab_4_Csharp.dll
+C:\Users\kseni\source\repos\OOP_lab_4_Csharp\obj\Debug\netcoreapp3.0\OOP_lab_4_Csharp.pdb
