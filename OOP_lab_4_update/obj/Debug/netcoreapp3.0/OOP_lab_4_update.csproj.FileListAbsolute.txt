@@ -1,0 +1,11 @@
+C:\Users\kseni\source\repos\OOP_lab_4_update\bin\Debug\netcoreapp3.0\OOP_lab_4_update.exe
+C:\Users\kseni\source\repos\OOP_lab_4_update\bin\Debug\netcoreapp3.0\OOP_lab_4_update.deps.json
+C:\Users\kseni\source\repos\OOP_lab_4_update\bin\Debug\netcoreapp3.0\OOP_lab_4_update.runtimeconfig.json
+C:\Users\kseni\source\repos\OOP_lab_4_update\bin\Debug\netcoreapp3.0\OOP_lab_4_update.runtimeconfig.dev.json
+C:\Users\kseni\source\repos\OOP_lab_4_update\bin\Debug\netcoreapp3.0\OOP_lab_4_update.dll
+C:\Users\kseni\source\repos\OOP_lab_4_update\bin\Debug\netcoreapp3.0\OOP_lab_4_update.pdb
+C:\Users\kseni\source\repos\OOP_lab_4_update\obj\Debug\netcoreapp3.0\OOP_lab_4_update.csprojAssemblyReference.cache
+C:\Users\kseni\source\repos\OOP_lab_4_update\obj\Debug\netcoreapp3.0\OOP_lab_4_update.AssemblyInfoInputs.cache
+C:\Users\kseni\source\repos\OOP_lab_4_update\obj\Debug\netcoreapp3.0\OOP_lab_4_update.AssemblyInfo.cs
+C:\Users\kseni\source\repos\OOP_lab_4_update\obj\Debug\netcoreapp3.0\OOP_lab_4_update.dll
+C:\Users\kseni\source\repos\OOP_lab_4_update\obj\Debug\netcoreapp3.0\OOP_lab_4_update.pdb
