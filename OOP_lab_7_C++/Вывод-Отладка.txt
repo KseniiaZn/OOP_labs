@@ -1,0 +1,21 @@
+﻿"OOP_lab_7_C++.exe" (Win32). Загружено "C:\Users\kseni\source\repos\OOP_lab_7_C++\Debug\OOP_lab_7_C++.exe". Символы загружены.
+"OOP_lab_7_C++.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"OOP_lab_7_C++.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"OOP_lab_7_C++.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"OOP_lab_7_C++.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"OOP_lab_7_C++.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"OOP_lab_7_C++.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+"OOP_lab_7_C++.exe" (Win32). Выгружено "C:\Windows\SysWOW64\ucrtbased.dll"
+"OOP_lab_7_C++.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0x1dd8 завершился с кодом 0 (0x0).
+"OOP_lab_7_C++.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"OOP_lab_7_C++.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+"OOP_lab_7_C++.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+"OOP_lab_7_C++.exe" (Win32). Загружено "C:\Windows\SysWOW64\sspicli.dll". 
+"OOP_lab_7_C++.exe" (Win32). Загружено "C:\Windows\SysWOW64\cryptbase.dll". 
+"OOP_lab_7_C++.exe" (Win32). Загружено "C:\Windows\SysWOW64\bcryptprimitives.dll". 
+"OOP_lab_7_C++.exe" (Win32). Загружено "C:\Windows\SysWOW64\sechost.dll". 
+Поток 0x2150 завершился с кодом 0 (0x0).
+Поток 0x2614 завершился с кодом 0 (0x0).
+Поток 0x365c завершился с кодом 0 (0x0).
+Программа "[10616] OOP_lab_7_C++.exe" завершилась с кодом 0 (0x0).
