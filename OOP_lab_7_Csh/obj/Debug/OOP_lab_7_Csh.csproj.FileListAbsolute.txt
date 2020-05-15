@@ -1,0 +1,6 @@
+C:\Users\kseni\source\repos\OOP_lab_7_Csh\obj\Debug\OOP_lab_7_Csh.csprojAssemblyReference.cache
+C:\Users\kseni\source\repos\OOP_lab_7_Csh\bin\Debug\OOP_lab_7_Csh.exe.config
+C:\Users\kseni\source\repos\OOP_lab_7_Csh\bin\Debug\OOP_lab_7_Csh.exe
+C:\Users\kseni\source\repos\OOP_lab_7_Csh\bin\Debug\OOP_lab_7_Csh.pdb
+C:\Users\kseni\source\repos\OOP_lab_7_Csh\obj\Debug\OOP_lab_7_Csh.exe
+C:\Users\kseni\source\repos\OOP_lab_7_Csh\obj\Debug\OOP_lab_7_Csh.pdb
